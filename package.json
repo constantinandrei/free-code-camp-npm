@@ -1,6 +1,11 @@
 {
 	"author": "Constantin Andrei Todirascu",
 	"description": "A project that does something awesome. i hope so",
+	"keywords": [
+		"awesome",
+		"freecodecamp",
+		"something"
+	],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
